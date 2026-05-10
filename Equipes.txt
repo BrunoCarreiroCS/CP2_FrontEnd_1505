@@ -1,8 +1,12 @@
 Equipe:
+- RM: PREENCHER | Nome: Bruno Carreiro Dos Santos
+
+Integrantes adicionais:
 - RM: PREENCHER | Nome: PREENCHER
 
 Projeto: VoltRide - Loja de Motos Eletricas
-GitHub Pages: PREENCHER_APOS_PUBLICAR
+Repositorio GitHub: https://github.com/BrunoCarreiroCS/CP2_FrontEnd_1505
+GitHub Pages: https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
 
 Observacoes:
 - Atualize este arquivo com os dados oficiais da equipe antes da entrega.

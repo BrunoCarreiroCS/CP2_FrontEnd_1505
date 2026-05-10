@@ -1,0 +1,12 @@
+Ola, rede. Venho aqui apresentar meu projeto orientado pelo Professor @Wellington Cidade Silva.
+
+O projeto e um site dinamico de loja de motos eletricas para amantes de mobilidade urbana, tecnologia e economia no dia a dia.
+
+O projeto foi realizado por @BrunoCarreiroDosSantos, @nome e as tecnologias utilizadas foram:
+
+#html #css #javascript #gitbash #github
+
+@fiap
+
+Link do projeto:
+https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
