@@ -1,8 +1,8 @@
-# VoltRide
+# TechB
 
 Projeto de Frontend para o Checkpoint 2 da turma 1ESPI.
 
-Tema escolhido: loja de motos eletricas.
+Tema escolhido: loja de bikes eletricas.
 
 ## Estrutura
 
@@ -33,5 +33,5 @@ Atualize o arquivo `Equipes.txt` com RM, nome dos integrantes e link do GitHub P
 
 ## Artefatos
 
-- Prototipo PDF: `src/assets/pdf/prototipo-voltride.pdf`
+- Prototipo PDF: `src/assets/pdf/prototipo-techb.pdf`
 - Modelo de postagem: `publicacao-linkedin.txt`

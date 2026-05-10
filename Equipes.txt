@@ -4,7 +4,7 @@ Equipe:
 Integrantes adicionais:
 - RM: PREENCHER | Nome: PREENCHER
 
-Projeto: VoltRide - Loja de Motos Eletricas
+Projeto: TechB - Loja de Bikes Eletricas
 Repositorio GitHub: https://github.com/BrunoCarreiroCS/CP2_FrontEnd_1505
 GitHub Pages: https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
 
