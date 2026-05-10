@@ -1,1 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Modelos, servicos e promocoes da loja de motos eletricas VoltRide.">
+  <title>Portifolio | VoltRide</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="../src/css/estilo.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="../index.html" aria-label="Voltar para a pagina inicial">
+      <span class="brand-mark">VR</span>
+      <span>VoltRide</span>
+    </a>
+    <button class="nav-toggle" type="button" aria-label="Abrir menu" aria-expanded="false" aria-controls="menu-principal">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav class="main-nav" id="menu-principal" aria-label="Menu principal">
+      <a href="../index.html">Home</a>
+      <a href="portifolio.html" aria-current="page">Portifolio</a>
+      <a href="sobre.html">Sobre</a>
+      <a href="contato.html">Contato</a>
+    </nav>
+  </header>
 
+  <main>
+    <section class="page-hero compact-hero" aria-labelledby="portfolio-title">
+      <p class="eyebrow">Portifolio</p>
+      <h1 id="portfolio-title">Modelos eletricos para cada rotina.</h1>
+      <p>Conheca nossa curadoria de motos eletricas, planos promocionais e diferenciais de atendimento.</p>
+    </section>
+
+    <section class="section" aria-labelledby="modelos-title">
+      <div class="section-heading">
+        <p class="eyebrow">Cards</p>
+        <h2 id="modelos-title">Linha VoltRide</h2>
+      </div>
+      <div class="product-grid">
+        <article class="product-card">
+          <img src="../src/assets/img/model-urban.png" alt="Urban Pulse, moto eletrica urbana">
+          <div>
+            <p class="tag">Urbana</p>
+            <h3>Urban Pulse</h3>
+            <p>Autonomia de ate 95 km, bau inteligente e modo economico para deslocamento diario.</p>
+          </div>
+          <strong>R$ 18.990</strong>
+        </article>
+        <article class="product-card">
+          <img src="../src/assets/img/model-trail.png" alt="Trail Spark, moto eletrica de uso misto">
+          <div>
+            <p class="tag">Mista</p>
+            <h3>Trail Spark</h3>
+            <p>Pneus de uso misto, suspensao elevada e assistencia de partida em rampa.</p>
+          </div>
+          <strong>R$ 23.490</strong>
+        </article>
+        <article class="product-card">
+          <img src="../src/assets/img/model-sport.png" alt="Sport Nova, moto eletrica esportiva">
+          <div>
+            <p class="tag">Esportiva</p>
+            <h3>Sport Nova</h3>
+            <p>Tres modos de pilotagem, painel conectado e torque instantaneo para avenidas.</p>
+          </div>
+          <strong>R$ 29.990</strong>
+        </article>
+      </div>
+    </section>
+
+    <section class="section section-split" aria-labelledby="promocoes-title">
+      <div>
+        <p class="eyebrow">Promocoes</p>
+        <h2 id="promocoes-title">Tabela de precos e vantagens.</h2>
+        <p>Pacotes criados para facilitar a entrada na mobilidade eletrica, com servicos que varios concorrentes deixam separados.</p>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <caption>Promocoes VoltRide</caption>
+          <thead>
+            <tr>
+              <th>Plano</th>
+              <th>Inclui</th>
+              <th>Preco</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Start Eletrico</td>
+              <td>Capacete + revisao 6 meses</td>
+              <td>R$ 899</td>
+            </tr>
+            <tr>
+              <td>Casa Carrega</td>
+              <td>Instalacao de carregador domestico</td>
+              <td>R$ 1.490</td>
+            </tr>
+            <tr>
+              <td>Rota Premium</td>
+              <td>Seguro + revisao 12 meses</td>
+              <td>R$ 2.390</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>
+      <a class="brand footer-brand" href="../index.html">
+        <span class="brand-mark">VR</span>
+        <span>VoltRide</span>
+      </a>
+      <p>Test ride, financiamento e suporte para sua primeira moto eletrica.</p>
+    </div>
+    <address>
+      <span>Telefone: (11) 4002-8922</span>
+      <span>Email: contato@voltride.com.br</span>
+      <span>Instagram: @voltride</span>
+    </address>
+    <p class="copyright">2026 VoltRide. Todos os direitos reservados.</p>
+  </footer>
+
+  <script src="../src/js/script.js"></script>
+</body>
+</html>
