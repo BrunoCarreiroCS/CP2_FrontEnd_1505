@@ -1,0 +1,9 @@
+Equipe:
+- RM: PREENCHER | Nome: PREENCHER
+
+Projeto: VoltRide - Loja de Motos Eletricas
+GitHub Pages: PREENCHER_APOS_PUBLICAR
+
+Observacoes:
+- Atualize este arquivo com os dados oficiais da equipe antes da entrega.
+- Somente um aluno do grupo deve entregar o projeto compactado como cp2.zip no Teams.
