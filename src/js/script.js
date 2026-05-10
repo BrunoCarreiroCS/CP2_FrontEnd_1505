@@ -32,7 +32,7 @@ if (contactForm && feedback) {
       return;
     }
 
-    feedback.textContent = `${nome}, recebemos sua mensagem. A equipe VoltRide responde em ate 1 dia util.`;
+    feedback.textContent = `${nome}, recebemos sua mensagem. A equipe TechB responde em ate 1 dia util.`;
     feedback.style.color = "#007c72";
     contactForm.reset();
   });
