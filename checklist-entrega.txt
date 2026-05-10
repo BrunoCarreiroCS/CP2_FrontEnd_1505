@@ -1,0 +1,54 @@
+Checklist do PDF - CP2 Frontend
+
+[OK] Estrutura de pastas:
+- src/assets/img
+- src/assets/pdf
+- src/css/estilo.css
+- src/js/script.js
+- pages/portifolio.html
+- pages/sobre.html
+- pages/contato.html
+- index.html
+
+[OK] Tema escolhido:
+- Loja de Motos Eletricas
+
+[OK] Paginas:
+- Home
+- Portifolio
+- Sobre
+- Contato
+
+[OK] Home:
+- Hero inicial
+- Navegacao para Home, Portifolio, Sobre e Contato
+
+[OK] Portifolio:
+- Cards dos modelos TechB NEO, TechB VOLT e TechB FUTURE
+- Imagens individuais dos modelos
+- Tabela de precos e promocoes
+
+[OK] Sobre:
+- Historia da marca TechB
+- Diferenciais coerentes com mobilidade eletrica
+
+[OK] Contato:
+- Formulario com nome, email, descricao e botao enviar
+- Feedback dinamico via JavaScript
+
+[OK] Footer:
+- Telefone, email, rede social e copyright
+
+[OK] Responsividade:
+- Layout adaptado para desktop, tablet e celular
+
+[OK] Commits:
+- Projeto possui mais de 10 commits semanticos
+
+[OK] GitHub Pages:
+- https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
+
+[OK] Artefatos:
+- Equipes.txt com equipe, RM e nome
+- Prototipo PDF em src/assets/pdf/prototipo-techb.pdf
+- cp2.zip gerado na raiz do projeto

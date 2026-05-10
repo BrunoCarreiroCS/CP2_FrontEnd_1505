@@ -1,13 +1,15 @@
-Equipe:
-- RM: PREENCHER | Nome: Bruno Carreiro Dos Santos
+Equipe: NextFrame
 
-Integrantes adicionais:
-- RM: PREENCHER | Nome: PREENCHER
+Integrantes:
+- RM: 569423 | Nome: Bruno Carreiro Dos Santos
+- RM: 568886 | Nome: Daniel Graciano Dos Santos Ferreira
+- RM: 571271 | Nome: Gustavo Gaviolli Romero
+- RM: 569104 | Nome: Leonardo Gomes Goncalves
+- RM: 569388 | Nome: Leonardo Porto Sodre
 
-Projeto: TechB - Loja de Bikes Eletricas
+Projeto: TechB - Loja de Motos Eletricas
 Repositorio GitHub: https://github.com/BrunoCarreiroCS/CP2_FrontEnd_1505
 GitHub Pages: https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
 
 Observacoes:
-- Atualize este arquivo com os dados oficiais da equipe antes da entrega.
 - Somente um aluno do grupo deve entregar o projeto compactado como cp2.zip no Teams.
