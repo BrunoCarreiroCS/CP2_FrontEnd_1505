@@ -1,5 +1,8 @@
 Checklist do PDF - CP2 Frontend
 
+[OK] Equipe:
+- Nextframe
+
 [OK] Estrutura de pastas:
 - src/assets/img
 - src/assets/pdf

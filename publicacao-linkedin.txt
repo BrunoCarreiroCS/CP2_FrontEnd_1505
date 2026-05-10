@@ -2,7 +2,7 @@ Ola, rede. Venho aqui apresentar meu projeto orientado pelo Professor @Wellingto
 
 O projeto e um site dinamico da TechB, uma loja de motos eletricas para amantes de mobilidade urbana, tecnologia e economia no dia a dia.
 
-O projeto foi realizado pela equipe NextFrame:
+O projeto foi realizado pela equipe Nextframe:
 
 @BrunoCarreiroDosSantos
 @DanielGracianoDosSantosFerreira

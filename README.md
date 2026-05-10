@@ -1,38 +1,70 @@
-# TechB
+# TechB - Projeto Front-End
 
-Projeto de Frontend para o Checkpoint 2 da turma 1ESPI.
+Projeto desenvolvido para o Checkpoint 2 da disciplina de Front-End, turma 1ESPI.
 
-Tema escolhido: loja de motos eletricas.
+## Equipe
 
-## Estrutura
+Nextframe
 
-- `index.html`
-- `pages/portifolio.html`
-- `pages/sobre.html`
-- `pages/contato.html`
-- `src/assets/img`
-- `src/assets/pdf`
-- `src/css/estilo.css`
-- `src/js/script.js`
+## Tema Escolhido
 
-## Entrega
+Loja de motos eletricas.
 
-Atualize o arquivo `Equipes.txt` com RM, nome dos integrantes e link do GitHub Pages antes de compactar e enviar no Teams.
+## Objetivo da Entrega
+
+Desenvolver um site institucional responsivo para a TechB, uma marca ficticia brasileira de motos eletricas. O projeto apresenta a empresa, seus modelos, diferenciais, tabela de promocoes e um formulario de contato, utilizando uma identidade visual escura com destaque em verde neon.
+
+## Participantes
+
+- Bruno Carreiro Dos Santos - RM 569423
+- Daniel Graciano Dos Santos Ferreira - RM 568886
+- Gustavo Gaviolli Romero - RM 571271
+- Leonardo Gomes Goncalves - RM 569104
+- Leonardo Porto Sodre - RM 569388
+
+## Estrutura do Projeto
+
+```text
+.
++-- index.html
++-- pages
+|   +-- portifolio.html
+|   +-- sobre.html
+|   +-- contato.html
++-- src
+|   +-- assets
+|   |   +-- img
+|   |   +-- pdf
+|   +-- css
+|   |   +-- estilo.css
+|   +-- js
+|       +-- script.js
++-- Equipes.txt
++-- checklist-entrega.txt
++-- publicacao-linkedin.txt
+```
+
+## Paginas
+
+- **Home:** apresentacao da marca, hero principal, atalhos de navegacao e modelos em destaque.
+- **Portifolio:** cards dos modelos TechB NEO, TechB VOLT e TechB FUTURE, com imagens individuais, especificacoes, precos e tabela de promocoes.
+- **Sobre:** historia institucional da TechB, origem da marca e diferenciais.
+- **Contato:** formulario com nome, email, descricao e botao de envio, alem dos dados de atendimento.
+
+## Artefatos
+
+- Prototipo em PDF: `src/assets/pdf/prototipo-techb.pdf`
+- Lista da equipe: `Equipes.txt`
+- Checklist da entrega: `checklist-entrega.txt`
+- Arquivo compactado para entrega: `cp2.zip`
 
 ## Links
 
 - Repositorio: https://github.com/BrunoCarreiroCS/CP2_FrontEnd_1505
 - GitHub Pages: https://brunocarreirocs.github.io/CP2_FrontEnd_1505/
 
-## Paginas
+## Fontes Relacionadas
 
-- Home com hero e navegacao principal.
-- Portifolio com cards de modelos e tabela de promocoes.
-- Sobre com historia da loja e diferenciais.
-- Contato com formulario dinamico.
-
-## Artefatos
-
-- Prototipo PDF: `src/assets/pdf/prototipo-techb.pdf`
-- Modelo de postagem: `publicacao-linkedin.txt`
-- Checklist do enunciado: `checklist-entrega.txt`
+- Fonte principal: Inter, via Google Fonts.
+- Imagens e identidade visual: materiais fornecidos e organizados pela equipe para compor a marca ficticia TechB.
+- Referencias de conteudo: mobilidade urbana, motos eletricas, sustentabilidade, economia de uso e suporte ao cliente.

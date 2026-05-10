@@ -1,4 +1,4 @@
-Equipe: NextFrame
+Equipe: Nextframe
 
 Integrantes:
 - RM: 569423 | Nome: Bruno Carreiro Dos Santos

@@ -494,8 +494,26 @@ p {
   grid-template-columns: repeat(4, 1fr);
 }
 
+.value-grid-wide {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .value-grid article {
   padding: 24px;
+}
+
+.story-cta {
+  display: grid;
+  gap: 18px;
+  max-width: 1120px;
+}
+
+.story-cta p {
+  max-width: 760px;
+}
+
+.story-cta .button {
+  width: fit-content;
 }
 
 .table-wrap {
@@ -623,6 +641,10 @@ textarea:focus {
   .value-grid {
     grid-template-columns: repeat(2, 1fr);
   }
+
+  .value-grid-wide {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 980px) {
@@ -682,6 +704,10 @@ textarea:focus {
     grid-template-columns: 1fr;
   }
 
+  .value-grid-wide {
+    grid-template-columns: 1fr;
+  }
+
   .product-specs {
     grid-template-columns: 1fr;
   }
@@ -692,6 +718,7 @@ textarea:focus {
   }
 
   .hero-actions .button,
+  .story-cta .button,
   .contact-form .button,
   .contact-panel .button {
     width: 100%;
